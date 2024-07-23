@@ -1,7 +1,3 @@
-Sure! Here’s a README file for a project focused on crack detection in walls using Convolutional Neural Networks (CNNs):
-
----
-
 # Crack Detection in Walls Using Convolutional Neural Networks (CNNs)
 
 This project is aimed at developing a Convolutional Neural Network (CNN) model for detecting cracks in walls from images. It leverages deep learning techniques to identify and classify cracks, which is crucial for structural health monitoring and maintenance.
